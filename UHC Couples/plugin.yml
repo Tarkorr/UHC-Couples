@@ -1,0 +1,16 @@
+name: UHC Couples
+version: 1.0
+author: Tarkor
+main: fr.tarkor.uhccouples.Main
+commands:
+  auto:
+    description: Ceci est une commande
+    permission: admin
+    permission-message: you do not have the permission
+  revive:
+    description: c'est une commande
+    permission: admin
+    permission-message: you do not have the permission
+  permissions:
+    admin:
+      description: allow all plugin command
